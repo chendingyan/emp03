@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<emps> 
+  <emp> 
+    <id>1</id>  
+    <name>Lizhen</name>  
+    <sex>Male</sex>  
+    <salary>9990.0</salary>  
+    <depId>1</depId> 
+  </emp>  
+  <emp> 
+    <id>2</id>  
+    <name>Fred</name>  
+    <sex>Male</sex>  
+    <salary>9990.0</salary>  
+    <depId>1</depId> 
+  </emp>  
+  <emp> 
+    <id>4</id>  
+    <name>Issac</name>  
+    <sex>Male</sex>  
+    <salary>2000000.0</salary>  
+    <depId>1</depId> 
+  </emp>  
+  <emp> 
+    <id>6</id>  
+    <name>Crystal</name>  
+    <sex>Female</sex>  
+    <salary>22000.0</salary>  
+    <depId>2</depId> 
+  </emp>  
+  <emp>
+    <id>7</id>
+    <name>Flower</name>
+    <sex>Female</sex>
+    <salary>2222.0</salary>
+    <depId>3</depId>
+  </emp>
+  <emp>
+    <id>8</id>
+    <name>Chao</name>
+    <sex>Male</sex>
+    <salary>222.222</salary>
+    <depId>5</depId>
+  </emp>
+</emps>

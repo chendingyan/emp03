@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<deps> 
+  <dep> 
+    <id>1</id>  
+    <name>CS</name> 
+  </dep>  
+  <dep> 
+    <id>2</id>  
+    <name>FAM</name> 
+  </dep>  
+  <dep> 
+    <id>3</id>  
+    <name>IB</name> 
+  </dep>  
+  <dep> 
+    <id>5</id>  
+    <name>IBM</name> 
+  </dep> 
+</deps>

@@ -1,0 +1,2 @@
+DAO--> Data Access Object 完成对用户对象的增删改查CRUD
+每一个对象都有一个DAO
